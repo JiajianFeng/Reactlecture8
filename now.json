@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "name": "react-ai",
+  "alias": "react-lecture8-jike.now.sh",
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@now/next"
+    }
+  ]
+}

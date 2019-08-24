@@ -1,0 +1,7 @@
+node_modules
+out
+.idea
+.eslintcache
+build
+.next
+package-lock.json
