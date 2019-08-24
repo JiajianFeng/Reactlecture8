@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "name": "jike-lecture8-develop",
-  "alias": "jike-lecture8-develop.now.sh",
+  "name": "vincent-lecture8-develop",
+  "alias": "vincent-lecture8-develop.now.sh",
   "builds": [
     {
       "src": "package.json",
